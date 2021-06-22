@@ -1,1 +1,1 @@
-# Gallery-with-PyQT
+# Photo Gallery with PyQT
